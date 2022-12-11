@@ -20,7 +20,6 @@ public static class ServiceFinder
                ?? AppDomain.CurrentDomain.GetAssemblies()
                    .SelectMany(it =>
                        it.GetTypes()).ToArray();
-        set => _allTypes = value;
     }
 
     /// <summary>

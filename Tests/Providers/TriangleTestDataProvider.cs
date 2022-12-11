@@ -1,9 +1,11 @@
 ﻿namespace Tests;
 
 using Controller.Services;
+using JetBrains.Annotations;
 using Model;
 using Model.Interfaces;
 
+[UsedImplicitly]
 public class TriangleTestDataProvider : FigureTestDataProviderBase<Triangle>
 {
     /// <inheritdoc />

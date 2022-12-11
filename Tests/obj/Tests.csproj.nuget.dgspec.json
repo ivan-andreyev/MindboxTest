@@ -174,6 +174,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2022.3.1, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.4.0, )"

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hWipb9IKiKuu8v/jQGzbLUzgsrtT5tFnMtJv0pDxCDO1vAwShb9XSNc9CEKEP03erpeT9tI5i+328y+In4cH4w==",
+  "dgSpecHash": "X/9AQiWk5JN7tcpeRd7lpqACAsLwamKeM3MEHRkH2RhQ8SGWvL72oNn/Eo+Loi2L+uoWbjFUSVetbYB9FrXXQw==",
   "success": true,
   "projectFilePath": "D:\\Coding\\source\\repos\\AreaCalculator\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mrred\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
     "C:\\Users\\mrred\\.nuget\\packages\\microsoft.codecoverage\\17.4.0\\microsoft.codecoverage.17.4.0.nupkg.sha512",
     "C:\\Users\\mrred\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0\\microsoft.net.test.sdk.17.4.0.nupkg.sha512",
     "C:\\Users\\mrred\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
