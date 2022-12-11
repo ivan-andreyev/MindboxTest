@@ -1,0 +1,17 @@
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Controller.deps.json
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Controller.dll
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Controller.pdb
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Model.dll
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Utils.dll
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Model.pdb
+D:\Coding\source\repos\AreaCalculator\Controller\bin\Debug\net6.0\Utils.pdb
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.csproj.CopyComplete
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.dll
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\refint\Controller.dll
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\Controller.pdb
+D:\Coding\source\repos\AreaCalculator\Controller\obj\Debug\net6.0\ref\Controller.dll

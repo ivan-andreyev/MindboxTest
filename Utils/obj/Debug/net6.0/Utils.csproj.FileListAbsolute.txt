@@ -1,0 +1,12 @@
+D:\Coding\source\repos\AreaCalculator\Utils\bin\Debug\net6.0\Utils.deps.json
+D:\Coding\source\repos\AreaCalculator\Utils\bin\Debug\net6.0\Utils.dll
+D:\Coding\source\repos\AreaCalculator\Utils\bin\Debug\net6.0\Utils.pdb
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.csproj.AssemblyReference.cache
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.AssemblyInfoInputs.cache
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.AssemblyInfo.cs
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.csproj.CoreCompileInputs.cache
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.dll
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\refint\Utils.dll
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\Utils.pdb
+D:\Coding\source\repos\AreaCalculator\Utils\obj\Debug\net6.0\ref\Utils.dll
